@@ -1,0 +1,2 @@
+# autogitrepo
+My git repo
